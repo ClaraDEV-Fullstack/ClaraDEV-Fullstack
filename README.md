@@ -44,6 +44,7 @@ As an end-to-end developer, I provide full-lifecycle software services. Whether 
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node-092E20?logo=Node&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
