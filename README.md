@@ -4,7 +4,7 @@
 **Transforming complex ideas into production-ready digital products.**
 
 📍 Douala, Cameroon (Available for **Remote** & **On-site** opportunities worldwide)  
-💼 Building scalable systems with **React, TypeScript, Django & Laravel**
+💼 Building scalable systems with **React, TypeScript, Flutter, Django, Laravel & Node.js**
 
 ---
 
@@ -55,6 +55,13 @@ As an end-to-end developer, I provide full-lifecycle software services. Whether 
 
 ---
 
+## 🔗 Quick Links
+- 🌐 **Live Portfolio:** [claradev.vercel.app](https://claradev.vercel.app)
+- 🛒 **Featured App:** [NextShopSphere Live](https://nextshopsphere-ui.onrender.com/)
+- 💼 **LinkedIn:** [Clarisse Berinyuy](https://linkedin.com/in/clara-beri-794097217/)
+
+ ---
+
 ## 🚀 Featured Production Projects
 
 ### 🛒 NextShopSphere
@@ -84,8 +91,8 @@ An interactive portfolio optimized for performance and SEO.
 
 I am open to collaborating on innovative projects and exploring new professional opportunities.
 
+
 - 📧 **Email:** [claraberi63@gmail.com](mailto:claraberi63@gmail.com)
-- 💼 **LinkedIn:** [Clara Beri](https://www.linkedin.com/in/clarisse-berinyuy-794097217/))
 - 🌍 **Location:** Douala, Cameroon / Remote
 
 ---
