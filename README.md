@@ -1,100 +1,103 @@
-# 👋 Hi, I'm Clarisse Berinyuy
+<!-- Profile README for https://github.com/ClaraDEV-Fullstack -->
+<!-- Copy this file to ClaraDEV-Fullstack/ClaraDEV-Fullstack as README.md -->
 
-### 🚀 Full-Stack Web & Mobile Engineer | Software Architect
-**Transforming complex ideas into production-ready digital products.**
+<div align="center">
 
-📍 Douala, Cameroon (Available for **Remote** & **On-site** opportunities worldwide)  
-💼 Building scalable systems with **React, TypeScript, Flutter, Django, Laravel & Node.js**
+# 👋 Clarisse Berinyuy
+
+### Full-Stack Web & Mobile Engineer
+
+**I build production-ready products end to end — from database design to polished UI.**
+
+📍 Yaounde, Cameroon · 🌍 Remote & on-site  
+💼 Full-Stack Developer @ **[KoryxTech](https://github.com/KoryxTech)**  
+🌐 [claradev.vercel.app](https://claradev.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/clara-beri-794097217/) · 📧 claraberi63@gmail.com
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-claradev.vercel.app-0EA5E9?style=for-the-badge)](https://claradev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/clara-beri-794097217/)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-I am a results-driven **Full-Stack Developer** specialized in architecting complete applications from the first line of code to production deployment. I bridge the gap between robust backend logic and seamless user experiences.
+Results-driven **Full-Stack Developer** specializing in scalable web and mobile applications. I architect complete systems — APIs, databases, admin panels, payments, and mobile-first UX — and ship them to production with Docker and modern CI practices.
 
-- 🏗️ **End-to-End Development:** Handling Database Design, API Architecture, and UI/UX.
-- 📱 **Mobile & Web:** Building cross-platform experiences using modern frameworks.
-- ⚙️ **DevOps Mindset:** Utilizing Docker and CI/CD for reliable shipping.
-- 🎯 **Goal:** Delivering clean, maintainable, and scalable code that solves business problems.
+Currently building **Vyralo**, a social-growth platform at **KoryxTech**, alongside personal and open-source projects.
 
 ---
-
-## 💼 How I Can Help You
-
-As an end-to-end developer, I provide full-lifecycle software services. Whether you are a startup or an established business, I offer:
-
-* **🌐 Full-Stack Web Development:** Building responsive, high-performance web applications using **React** or **Next.js** with a robust **Django** or **Laravel** backend.
-* **📱 Mobile App Development:** Crafting cross-platform mobile experiences with **Flutter** that feel native and fast.
-* **🔌 API Design & Integration:** Developing secure, scalable **RESTful APIs** and integrating 3rd-party services (Payments, OAuth, Cloud storage).
-* **🏗️ Database Architecture:** Designing optimized **MySQL/PostgreSQL** schemas to ensure data integrity and speed.
-* **🐳 DevOps & Deployment:** Containerizing applications with **Docker** and deploying to production-ready environments (AWS, DigitalOcean, Railway).
-
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend & Mobile
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+**Frontend & Mobile**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?style=flat)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & Database
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node-092E20?logo=Node&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+**Backend & Data**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🚀 DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white) 
-![REST API](https://img.shields.io/badge/-REST%20APIs-FF6C37?logo=postman&logoColor=white)
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ---
 
-## 🔗 Quick Links
-- 🌐 **Live Portfolio:** [claradev.vercel.app](https://claradev.vercel.app)
-- 🛒 **Featured App:** [NextShopSphere Live](https://nextshopsphere-ui.onrender.com/)
-- 💼 **LinkedIn:** [Clarisse Berinyuy](https://linkedin.com/in/clara-beri-794097217/)
+## 🚀 Featured Projects
 
- ---
+| Project | Role | Stack | Links |
+|---------|------|-------|-------|
+| **Vyralo** @ KoryxTech | Full-Stack Developer | Laravel · Inertia · React · TS · PostgreSQL · Docker | [Case study ↗](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio#-vyralo--koryxtech) |
+| **NextShopSphere** | Full-Stack Developer | React · Django REST · MySQL · Docker | [Live demo ↗](https://nextshopsphere-ui.onrender.com/) · [Repo ↗](https://github.com/ClaraDEV-Fullstack/NexShop) |
+| **SmartSpend** | Full-Stack Developer | Flutter · Django · REST API | [Repo ↗](https://github.com/ClaraDEV-Fullstack/SmartSpend-App) |
+| **Developer Portfolio** | Creator | TypeScript · React · Vercel | [Live ↗](https://claradev.vercel.app) · [Repo ↗](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio) |
 
-## 🚀 Featured Production Projects
-
-### 🛒 NextShopSphere
-**The Complete E-Commerce Ecosystem**
-A full-stack platform featuring secure JWT/OAuth authentication, complex cart logic, and admin management.
-- **Tech:** React, Django REST Framework, MySQL, Docker, Cloudinary.
-- [📂 View Repository](https://github.com/ClaraDEV-Fullstack/NextShopSphere)
-
-### 🌐 Digital Portfolio
-**Modern Showcase**
-An interactive portfolio optimized for performance and SEO.
-- **Tech:** TypeScript, React, Framer Motion.
-- [📂 View Repository](https://github.com/ClaraDEV-Fullstack/Clara-Portfo)
+📂 **Full project breakdown with screenshots →** [Clara-Portfolio](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio)
 
 ---
 
-## 📊 Impact & Activity
+## 💼 What I Deliver
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClaraDEV-Fullstack&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraDEV-Fullstack&layout=compact&theme=radical" alt="Top Langs" width="45%" />
-</p>
+- **Full-stack web apps** — Laravel or Django backends with React / Inertia / Next.js frontends
+- **Mobile apps** — Cross-platform Flutter with offline-first patterns
+- **Payment integrations** — Crypto deposits, PossaPay, wallet/balance systems
+- **Admin panels** — CRUD, exports, role-based access, analytics dashboards
+- **i18n & UX** — Bilingual apps, mobile-first responsive design, PWA-ready interfaces
+- **DevOps** — Docker, nginx, environment configs, production deployments
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ClaraDEV-Fullstack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraDEV-Fullstack&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-I am open to collaborating on innovative projects and exploring new professional opportunities.
-
+Open to **remote roles**, **contract work**, and **collaborative projects**.
 
 - 📧 **Email:** [claraberi63@gmail.com](mailto:claraberi63@gmail.com)
-- 🌍 **Location:** Douala, Cameroon / Remote
+- 💼 **LinkedIn:** [Clarisse Berinyuy](https://linkedin.com/in/clara-beri-794097217/)
+- 🌐 **Portfolio:** [claradev.vercel.app](https://claradev.vercel.app)
+- 🏢 **Company work:** [KoryxTech](https://github.com/KoryxTech)
 
 ---
-<p align="center"><b>"If it can be imagined, it can be built."</b></p>
+
+<div align="center">
+
+*"If it can be imagined, it can be built."*
+
+</div>
