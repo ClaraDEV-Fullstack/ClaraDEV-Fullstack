@@ -55,7 +55,7 @@ At **KoryxTech**, I've delivered **God of Market** ([godofmarket.com](https://go
 
 | Project | Status | Stack | Links |
 |---------|--------|-------|-------|
-| **Bet Bot Pro** @ KoryxTech | ✅ Completed | Next.js · FastAPI · Playwright · Redis · Docker | [Live ↗](https://bets.koryx.net/) · [Repo ↗](https://github.com/godofmarket/Bet_Bot_Pro) · [Case study ↗](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio#bet-bot-pro) |
+| **Bet Bot Pro** @ KoryxTech | ✅ Completed · 🔒 Private | Next.js · FastAPI · Playwright · Redis · Docker | [Live ↗](https://bets.koryx.net/) · [Case study ↗](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio#bet-bot-pro) |
 | **God of Market** @ KoryxTech | ✅ Completed · 🔒 Private | Next.js · FastAPI · PostgreSQL · Redis · Stripe · Docker | [Live ↗](https://godofmarket.com/) · [Case study ↗](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio#god-of-market-koryxtech) |
 | **Vyralo** @ KoryxTech | ✅ Completed · 🔒 Private | Laravel · Inertia · React · TS · PostgreSQL · Docker | [Case study ↗](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio#vyralo-koryxtech) |
 | **NexShop** E-Commerce | ✅ Completed | React · Django · PostgreSQL · Redux · Docker | [Live ↗](https://nextshop-ui.onrender.com/) · [Repo ↗](https://github.com/ClaraDEV-Fullstack/NexShop) |
