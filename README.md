@@ -21,7 +21,7 @@
 
 Results-driven **Full-Stack Developer** specializing in scalable web and mobile applications. I architect complete systems — REST APIs, databases, admin panels, payments, subscriptions, and mobile-first UX — and ship them to production with Docker and modern deployment practices.
 
-At **KoryxTech**, I've delivered **God of Market** ([godofmarket.com](https://godofmarket.com/)) — a live trading ecosystem — and **Vyralo**, an SMM growth platform. I also maintain open-source and personal projects across fintech, e-commerce, and mobile.
+At **KoryxTech**, I've delivered **God of Market** ([godofmarket.com](https://godofmarket.com/)), **Bet Bot Pro** ([bets.koryx.net](https://bets.koryx.net/)), and **Vyralo** — production platforms across trading, sports betting AI, and SMM growth. I also maintain open-source and personal projects.
 
 ---
 
@@ -55,6 +55,7 @@ At **KoryxTech**, I've delivered **God of Market** ([godofmarket.com](https://go
 
 | Project | Status | Stack | Links |
 |---------|--------|-------|-------|
+| **Bet Bot Pro** @ KoryxTech | ✅ Completed | Next.js · FastAPI · Playwright · Redis · Docker | [Live ↗](https://bets.koryx.net/) · [Repo ↗](https://github.com/godofmarket/Bet_Bot_Pro) · [Case study ↗](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio#bet-bot-pro) |
 | **God of Market** @ KoryxTech | ✅ Completed · 🔒 Private | Next.js · FastAPI · PostgreSQL · Redis · Stripe · Docker | [Live ↗](https://godofmarket.com/) · [Case study ↗](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio#god-of-market-koryxtech) |
 | **Vyralo** @ KoryxTech | ✅ Completed · 🔒 Private | Laravel · Inertia · React · TS · PostgreSQL · Docker | [Case study ↗](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio#vyralo-koryxtech) |
 | **NexShop** E-Commerce | ✅ Completed | React · Django · PostgreSQL · Redux · Docker | [Live ↗](https://nextshop-ui.onrender.com/) · [Repo ↗](https://github.com/ClaraDEV-Fullstack/NexShop) |
@@ -71,7 +72,7 @@ At **KoryxTech**, I've delivered **God of Market** ([godofmarket.com](https://go
 ## 💼 What I Deliver
 
 - **Full-stack web apps** — FastAPI, Laravel, or Django backends with React / Inertia / Next.js frontends
-- **Fintech & SaaS** — Trading signals, subscriptions (Stripe), wallets, crypto deposits, RBAC admin
+- **Fintech & SaaS** — Trading signals, AI betting bots, subscriptions (Stripe), wallets, RBAC admin
 - **Mobile apps** — Cross-platform Flutter with offline-first patterns
 - **Admin panels** — CRUD, exports, role-based access, analytics dashboards
 - **i18n & UX** — Bilingual apps, mobile-first responsive design, PWA-ready interfaces
