@@ -57,7 +57,7 @@ At **KoryxTech**, I've delivered **God of Market** ([godofmarket.com](https://go
 |---------|--------|-------|-------|
 | **Bet Bot Pro** @ KoryxTech | ✅ Completed · 🔒 Private | Next.js · FastAPI · Playwright · Redis · Docker | [Live ↗](https://bets.koryx.net/) · [Case study ↗](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio#bet-bot-pro) |
 | **God of Market** @ KoryxTech | ✅ Completed · 🔒 Private | Next.js · FastAPI · PostgreSQL · Redis · Stripe · Docker | [Live ↗](https://godofmarket.com/) · [Case study ↗](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio#god-of-market-koryxtech) |
-| **Vyralo** @ KoryxTech | ✅ Completed · 🔒 Private | Laravel · Inertia · React · TS · PostgreSQL · Docker | [Live ↗](https://vyralo.net/) . [Case study ↗] (https://github.com/ClaraDEV-Fullstack/Vyralo) |
+| **Vyralo** @ KoryxTech | ✅ Completed · 🔒 Private | Laravel · Inertia · React · TS · PostgreSQL · Docker | [Live ↗](https://vyralo.net/) . [Case study ↗](https://github.com/ClaraDEV-Fullstack/Clara-Portfolio#vyralo) |
 | **NexShop** E-Commerce | ✅ Completed | React · Django · PostgreSQL · Redux · Docker | [Live ↗](https://nextshop-ui.onrender.com/) · [Repo ↗](https://github.com/ClaraDEV-Fullstack/NexShop) |
 | **SmartSpend** Finance Tracker | 🚧 In Progress | Flutter · Django · MySQL · REST APIs | [Repo ↗](https://github.com/ClaraDEV-Fullstack/SmartSpend-App) |
 | **NextSkill-Hub** Job Platform | 🚧 In Progress | Next.js · Django · PostgreSQL · Tailwind | [Repo ↗](https://github.com/HighTechLabs/nextskillhub) |
